@@ -1,2 +1,4 @@
 # CIFAR-CNN
 Non linear activation functions in CIFAR trained CNN for class 10 classifier
+  Convolutional Neural Networks (CNNs) are intricate designs that enable the efficient development of models for image classification. CNNs have provide a powerful framework for understanding images. These models are meticulously designed for processing visual data.
+  The key architectural components of a CNN include convolutional layers, pooling layers, fully connected layers, and activation functions. Convolutional layers are responsible for feature extraction, detecting patterns in images. Pooling layers reduce spatial dimensions and enhance invariance to translations. Fully connected layers make predictions, and activation functions introduce non-linearity to those predictions. This design enables CNNs to automatically learn features from images through associated learning in ensemble networks.
